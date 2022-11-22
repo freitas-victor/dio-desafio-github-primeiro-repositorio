@@ -16,7 +16,14 @@ Com foco em alcançar grupos de diversidade como mulheres, pretos e pardos, o In
 - [Mais informações](https://www.dio.me/bootcamp/orange-tech?ref=CG&utm_source=youtube&utm_medium=social&utm_campaign=cg-bootcamp-orange-tech&utm_content=description)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Tecnologias que serão trabalhadas no Bootcamp Orange Tech+
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> 
+<a href="https://icongr.am/devicon" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/react-original.svg" alt="react" width="70" height="70"/> </a> 
+<a href="https://icongr.am/devicon" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/typescript-original.svg" width="70" height="70"/> </a> 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Objetivos Pessoais com o Bootcamp
 
 - Aprofundar meus conhecimentos em Javascript
@@ -27,6 +34,7 @@ Com foco em alcançar grupos de diversidade como mulheres, pretos e pardos, o In
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##  Links Úteis
-[Sintaxe basi  Markdown](https://www.markdownguide.org/basic-syntax)
+- [Sintaxe basi  Markdown](https://www.markdownguide.org/basic-syntax)
+- [Icones](https://icongr.am/devicon)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
