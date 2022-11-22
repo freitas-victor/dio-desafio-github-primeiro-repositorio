@@ -23,6 +23,7 @@ Com foco em alcançar grupos de diversidade como mulheres, pretos e pardos, o In
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> 
 <a href="https://icongr.am/devicon" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/react-original.svg" alt="react" width="70" height="70"/> </a> 
 <a href="https://icongr.am/devicon" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/typescript-original.svg" width="70" height="70"/> </a> 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Objetivos Pessoais com o Bootcamp
 
