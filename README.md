@@ -15,7 +15,7 @@ Com foco em alcançar grupos de diversidade como mulheres, pretos e pardos, o In
 - Carga Horária: 78h
 - [Mais informações](https://www.dio.me/bootcamp/orange-tech?ref=CG&utm_source=youtube&utm_medium=social&utm_campaign=cg-bootcamp-orange-tech&utm_content=description)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Objetivos Pessoais com o Bootcamp
 
@@ -25,4 +25,6 @@ Com foco em alcançar grupos de diversidade como mulheres, pretos e pardos, o In
 - Aprender React           
 - Aprender Typescript
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##  Links Úteis
+[Sintaxe basi  Markdown](https://www.markdownguide.org/basic-syntax)
