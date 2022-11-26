@@ -22,4 +22,3 @@ const formaPagamento = 4
     }else{
         console.log(`O valor do produto é ${precoEtiqueta}, com o juros o valor total fica ${precoEtiqueta + (precoEtiqueta * 10/100)}`);
     }
-    
